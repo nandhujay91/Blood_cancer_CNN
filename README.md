@@ -1,11 +1,5 @@
 # **HemaBridge: AI-Driven Blood Cancer Detection & Care**  
 **Version:** 1.0.0  
-
-## **Contributors**  
-- **Deepak Miryala**  
-- **Nandini Arjunan**  
-- **Sumith Singh Kothwal**  
-
 ---
 
 ## **Project Overview**  
